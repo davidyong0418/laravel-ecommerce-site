@@ -1,0 +1,41 @@
+.modal-dialog .modal-user-delete .modal-header{
+    background-color: #00c851;
+    color: white;
+}
+.modal-dialog .modal-user-delete .text-center .fa {
+    color: #00c851;
+}
+.modal-dialog .modal-user-delete .modal-body .text-center p{
+    margin-top: 30px;
+}
+.modal-dialog{
+    margin-top: 300px;
+}
+.modal-dialog .modal-user-delete .modal-body .modal-footer .btn-success{
+
+}
+
+
+.rotateIn {
+    -webkit-animation-name: rotateIn;
+    animation-name: rotateIn;
+}
+.animated {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+.user-manage-actions{
+    font-size: 18px;
+    cursor: pointer;
+}
+.control-user-label{
+    margin-top: 7px;
+}
+.user-detail-cotent{
+    padding-bottom: 40px;
+}
+.user-detail-cotent .box-footer .btn-group{
+    margin-left: 15px;
+}
